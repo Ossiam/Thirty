@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Thirty</string>
+    <string name="throws_left">Throws left: %1$d</string>
+    <string name="current_round">Current round: %1$d</string>
+
+    <string name="game_reset">Reset</string>
+    <string name="throw_btn">Throw</string>
+    <string name="end_round_btn">End Round</string>
+    <string name="current_round_text">Current round: </string>
+    <string name="choose_dice_btn">Choose dice</string>
+    <string name="restart_game_btn">Restart game?</string>
+
+</resources>
