@@ -2,7 +2,7 @@
 
 Description:
 
-Android-application used as an introduction to Android development and Android APIs. This application is an implementation of the game Thirty. 
+Android-application used as an introduction to Android development and Android APIs. This application is an implementation of the game Thirty and written in Kotlin. 
 
 Rules: 
 
